@@ -3,7 +3,9 @@
     height: 250px;
     align-items: center;
     margin: 10px 30px 0 40px;
-
+}
+.pokeCard:hover{
+    background-color: antiquewhite;
 }
 .pokeName{
     color: rgb(226, 166, 0);
